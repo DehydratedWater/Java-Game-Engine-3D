@@ -3,5 +3,7 @@ This is unfinished project of game engine, written in java. It supports bounding
 
 ![alt test](https://github.com/DehydratedWater/Java-Game-Engine-3D/blob/master/GameEngine3D.png)
 
+![alt test](https://github.com/DehydratedWater/Java-Game-Engine-3D/blob/master/GameEngine3D2.png)
+
 I was learning from:
 https://www.youtube.com/watch?v=VS8wlS9hF8E
