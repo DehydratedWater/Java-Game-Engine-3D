@@ -9,5 +9,7 @@ This is unfinished project of game engine, written in java. It supports bounding
 * Java 1.7 
 * LWJGL 2.9.2
 
+## Credits
+
 I was learning from:
 https://www.youtube.com/watch?v=VS8wlS9hF8E
