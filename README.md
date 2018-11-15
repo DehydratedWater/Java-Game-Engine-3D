@@ -5,5 +5,9 @@ This is unfinished project of game engine, written in java. It supports bounding
 
 ![alt test](https://github.com/DehydratedWater/Java-Game-Engine-3D/blob/master/GameEngine3D2.png)
 
+## Technologies
+* Java 1.7 
+* LWJGL 2.9.2
+
 I was learning from:
 https://www.youtube.com/watch?v=VS8wlS9hF8E
